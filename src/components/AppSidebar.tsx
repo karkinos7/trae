@@ -18,7 +18,7 @@ export function AppSidebar() {
         <div className="flex items-center gap-2 px-2 py-1">
           <div className="h-6 w-6 shrink-0 rounded-md bg-primary" />
           <span className="truncate font-semibold group-data-[collapsible=icon]:hidden">
-            文案生成工作台
+            文案生成工具
           </span>
         </div>
       </SidebarHeader>
